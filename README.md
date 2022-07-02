@@ -1,4 +1,4 @@
-# Netgate_6100_PfSense_Releases
+# Netgate 6100 PfSense Official Release Download
 A repo to store Official PfSense releases for Netgate 6100 \
  \
 Download links -> \
