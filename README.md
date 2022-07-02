@@ -2,5 +2,5 @@
 A repo to store Official PfSense releases for Netgate 6100 \
  \
 Download links -> \
-22.01 - https://mega.nz/file/5DF1CZSA#gVHFGd0ESA3oFsE8A6ODg-wxrtsXkYMTdPu5YUQW2Fg \
-22.05 - https://mega.nz/file/wLEEELyI#xpMfYrGBm8_GIHDaJ1pk-PXIzycVKUliWCNGIlFBAI4
+22.01 - https://mega.nz/file/xX1AEILb#9QjDDLDgIi-4b2lNysNbz1v_Ja0vWBW91Qm_oVNtT-U \
+22.05 - https://mega.nz/file/MHslHZAQ#ocVvtio-Qqdcc6pNWbk8ZomSxqQan5n11s2X6c2Vqog
